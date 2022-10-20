@@ -7,6 +7,7 @@
 * [Useage](#useage)
 * [License](#license)
 * [Contribution](#contribution)
+
 * [Test](#test)
 * [Questions](#questions)
   
@@ -15,6 +16,7 @@ This application renders a README.md file using the terminal.
 
 ## Visuals
 ![ReadMe-Generator](/assets/images/Screen%20Shot%202022-10-17%20at%201.00.19%20AM.png)
+![Facebook](https://user-images.githubusercontent.com/108596767/196991967-e067e55d-7d79-4a29-853e-1eb6946a7e0e.gif)
       
 ## Installation
 Before using the application do a npm install.
